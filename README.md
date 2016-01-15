@@ -2,7 +2,7 @@
 
 # Curso Online de UX para Web Designers
 
-Nesse repositório estão listados os links apresentados durante o curso.
+Nesse repositório estão listados os links apresentados durante todas as aulas do curso.
 
 ## O que é o curso?
 
