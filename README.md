@@ -8,4 +8,11 @@ Nesse repositório estão listados os [links](links.md) apresentados durante tod
 
 Curso 100% online de UX para Web Designers, ministrado pelo [Ux Designer Luis Felipe Fernandes](https://twitter.com/luisfelipe_f).
 
-Link: [Curso Online de UX para Web Designers](http://www.uxacademy.com.br/)
+Mais informações: [Curso Online de UX para Web Designers](http://www.uxacademy.com.br/)
+
+### Participe!
+
+Como são muitos links, é praticamente impossível eu ter acertado tudo de primeira. Caso você encontre algum link quebrado, errado, mal formatado, faltando, por favor nos faça saber.
+
+Obrigado!
+Bons Estudos :)
